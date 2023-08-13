@@ -1,0 +1,19 @@
+.divItemCartProduct {
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    width: 25vw;
+    margin-top: 1em;
+}
+
+.divColumnCartProduct {
+    flex-direction: column;
+    column-gap: normal;
+}
+
+.imgCart {
+    width: 12.5em;
+    margin-left: 2em;
+    /* width: fit-content; */
+    /* margin-left: auto; */
+}

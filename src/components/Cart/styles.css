@@ -1,0 +1,20 @@
+.divEmptyCart {
+    display: contents;
+    flex-direction: row;
+}
+
+.divEmptyCartContent {
+    flex-grow: initial;
+    align-content: center;
+}
+
+.divCartButtons {
+    display: flex;
+    justify-content:  center;
+    margin-top: 3em;
+}
+
+.imgEmptyCart {
+    width:  auto;
+    height: 28em;
+}

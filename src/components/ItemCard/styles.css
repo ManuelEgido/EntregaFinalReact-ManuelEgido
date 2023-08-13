@@ -1,0 +1,18 @@
+
+.itemCards {
+    padding-top: 0;
+}
+
+/* .cardsImg{
+    height: fit-content;
+    width: fit-content;
+} */
+
+.buyButton:hover {
+    background-color: #03561e !important;
+}
+
+#divContainerProducts {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,31 @@
+.itemCountContainer { 
+    width: 20em;
+    height: auto;
+    background-color: red;
+}
+
+.titleItemCount {
+    color: rgb(255, 236, 236);
+    display: flex;
+    justify-self: center;
+}
+
+.quantityButtonsContainer {
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    padding-top: 3%;
+}
+
+.itemCountDisplay {
+    width: 100%;
+    height: max-content;
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+}
+
+.countDisplay {
+    color: rgb(253, 246, 238);
+}

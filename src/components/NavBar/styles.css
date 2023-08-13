@@ -1,0 +1,20 @@
+/* import {colors} from '' */
+
+.navLink {
+    text-decoration-line: none;
+    color: #0e7b32;
+    font-size: larger;
+}
+
+.navLink:hover { 
+    color: #03561e;
+}
+
+.navLinkBlack{
+    color: #092b14;
+}
+
+.cartWidgetMainNavBar {
+    display: flex;
+    justify-items: flex-end;
+}
